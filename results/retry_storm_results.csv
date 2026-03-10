@@ -1,0 +1,5 @@
+failure_rate,jobs_created,total_attempts,jobs_completed,failures,retries,permanent_failures,max_queue_depth
+0.1,50,54,50,4,4,0,50
+0.3,50,67,49,18,17,1,50
+0.5,50,84,47,37,34,3,50
+0.7,50,106,37,69,56,13,50
